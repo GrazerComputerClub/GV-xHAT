@@ -38,7 +38,7 @@ All modifications for new connection or components are marked red. Unused compon
   green - GPIO24  
   blue - GPIO04 (active on boot)   
 - **Vibration motor**  
- GPIO25 (shared with first red LED, activation via jumper JP4)
+ GPIO25 (shared with first red LED, activation via jumper JP6)
 
 ![PCB Bottom](https://github.com/GrazerComputerClub/GV-xHAT/raw/master/GV-xHAT_top.png)
 ![PCB Bottom](https://github.com/GrazerComputerClub/GV-xHAT/raw/master/GV-xHAT_bottom.png)
