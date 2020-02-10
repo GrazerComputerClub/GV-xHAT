@@ -5,7 +5,7 @@ All modifications for new connection or components are marked red. Unused compon
 
 ## Features
 
-- **SPI TFT display** - 320x240
+- **SPI TFT display** - 160x128 or 320x240
   SPI, CS0   
 - **SPI TFT background LED control**
   GPIO18 (active low)
