@@ -3,6 +3,10 @@
 This is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) PCB Version for use with Raspberry Pi B versions.  
 All modifications for new connection or components are marked red. Unused components are removed.  
 
+## In Action
+
+[![GC2 Game-xHAT](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
+
 ## Features
 
 - **SPI TFT display** - 160x128 or 320x240
