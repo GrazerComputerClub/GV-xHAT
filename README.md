@@ -1,11 +1,11 @@
-# GV-xHAT - Gaming and Video xHAT
+# Game0-xHAT - Gaming xHAT V0.1
 
-This is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) PCB Version for use with Raspberry Pi B versions.  
+This is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) Rev. 0.1 PCB Version for use with Raspberry Pi B versions.  
 All modifications for new connection or components are marked red. Unused components are removed.  
 
 ## In Action
 
-[![GC2 Game-xHAT](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
+[![GC2 Game0-xHAT](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
 
 ## Features
 
@@ -26,6 +26,7 @@ All modifications for new connection or components are marked red. Unused compon
     * Left - GPIO26  
     * Right - GPIO20  
   - 4 x free arranged 
+    * S (S9) - GPIO03
     * P (S6) - GPIO19  
     * O (S8) - GPIO14     
     * X (S7) - GPIO15  
@@ -44,5 +45,5 @@ All modifications for new connection or components are marked red. Unused compon
 - **Vibration motor**  
  GPIO25 (shared with first red LED, activation via jumper JP6)
 
-![PCB Bottom](https://github.com/GrazerComputerClub/GV-xHAT/raw/master/GV-xHAT_top.png)
-![PCB Bottom](https://github.com/GrazerComputerClub/GV-xHAT/raw/master/GV-xHAT_bottom.png)
+![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_top.png)
+![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_bottom.png)
