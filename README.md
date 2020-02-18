@@ -53,6 +53,7 @@ All modifications for new connection or components are marked red. Unused compon
 
 ![Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
 ![Gameboy - Tetris](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Tetris.png)
+![Gameboy Color - Skoardy](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Skoardy.png)
 ![Mega Drive - Sonic](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Sonic.png)
 ![Mega Drive - Thunder Force IV](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ThunderForceIV.png)
 ![SummVM - Space Quest (Menü)](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ScummVM-Menu.png)
