@@ -3,9 +3,13 @@
 This is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) Rev. 0.1 PCB Version for use with Raspberry Pi B versions.  
 All modifications for new connection or components are marked red. Unused components are removed.  
 
+Key/Button mapping can support Nintendo NES, Gameboy (Color) and Sega Mega Drive layout (Gambatte and PicoDrive Emulator).  
+Key/Button mapping can support mouse input (ScummVM). 
+
 ## In Action
 
-[![GC2 Game0-xHAT](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
+[![GC2 Game0-xHAT ScummVM](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
+[![GC2 Game0-xHAT Sega Mega Drive](https://img.youtube.com/vi/PtT1OVjE4Fs/0.jpg)](https://www.youtube.com/watch?v=PtT1OVjE4Fs)[![GC2 Game0-xHAT Nintendo Gameboy](https://img.youtube.com/vi/3sH8cGopgdA/0.jpg)](https://www.youtube.com/watch?v=3sH8cGopgdA)
 
 ## Features
 
@@ -25,7 +29,7 @@ All modifications for new connection or components are marked red. Unused compon
     * Down - GPIO21  
     * Left - GPIO26  
     * Right - GPIO20  
-  - 4 x free arranged 
+  - 4 x free arranged (NES style) + 1 function  
     * S (S9) - GPIO03
     * P (S6) - GPIO19  
     * O (S8) - GPIO14     
