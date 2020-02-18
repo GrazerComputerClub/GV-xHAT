@@ -47,3 +47,13 @@ All modifications for new connection or components are marked red. Unused compon
 
 ![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_top.png)
 ![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_bottom.png)
+
+
+## Screenshots 160x128 display
+
+![Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
+![Gameboy - Tetris](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Tetris.png)
+![Mega Drive - Sonic](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Sonic.png)
+![Mega Drive - Thunder Force IV](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ThunderForceIV.png)
+![SummVM - Space Quest (Menü)](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ScummVM-Menu.png)
+![SummVM - Space Quest (Text)](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ScummVM-Text.png)
