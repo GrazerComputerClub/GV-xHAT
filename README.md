@@ -61,6 +61,8 @@ Key/Button mapping can support mouse input (ScummVM).
 
 # Assembling
 
+![Curcuit](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/Curcuit.jpg)
+
 ![PCB top](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_top.png)
 ![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_bottom.png)
 
