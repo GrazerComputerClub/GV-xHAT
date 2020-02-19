@@ -53,7 +53,9 @@ The Switch/Button mapping can support mouse input (ScummVM).
 
 ## Screenshots 160x128 display
 
-![Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
+![Linux Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
+![Video Sintel](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Sintel.png)
+![Video Big Bug Bunny](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/BigBuckBunny.png)
 ![Gameboy - Tetris](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Tetris.png)
 ![Gameboy Color - Skoardy](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Skoardy.png)
 ![Mega Drive - Sonic](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Sonic.png)
