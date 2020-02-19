@@ -50,6 +50,7 @@ The Switch/Button mapping can support mouse input (ScummVM).
 - **Vibration motor**  
  GPIO25 (shared with first red LED, activation via jumper JP6)
 
+![Game0-xHAT with 320x240 TFT](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/Game0-xHAT.jpeg)
 
 ## Screenshots 160x128 display
 
