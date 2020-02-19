@@ -1,12 +1,13 @@
-# Game0-xHAT - Gaming xHAT V0.1
+# Game0-xHAT
 
-This is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) Rev. 0.1 PCB Version for use with Raspberry Pi B versions.  
-All modifications for new connection or components are marked red. Unused components are removed.  
+Gaming xHAT V0.1 is a modified [Pi-XO](https://github.com/GrazerComputerClub/Pi-XO) Rev. 0.1 PCB for use with Raspberry Pi B an Zero versions. So this is some kind of recycling project, because the Pi-XO is discontinued and some PCB are still around.
+For all modifications to PCB please see Assembling.   
 
-Key/Button mapping can support Nintendo NES, Gameboy (Color) and Sega Mega Drive layout (Gambatte and PicoDrive Emulator).  
-Key/Button mapping can support mouse input (ScummVM). 
+The Game-xHAT can be used for Raspberry Pi Jams, to learn working with Linux and programming practices. It can be used as video player, Controller (Mouse, Joypad), classic game console (see videos), GPIO interaction and more.  
+The Switch/Button mapping can support Nintendo NES, Gameboy (Color) and Sega Mega Drive layout (Gambatte and PicoDrive Emulator).  
+The Switch/Button mapping can support mouse input (ScummVM). 
 
-## In Action
+## Gaming action
 
 [![GC2 Game0-xHAT ScummVM](https://img.youtube.com/vi/9YzMNbByE_w/0.jpg)](https://www.youtube.com/watch?v=9YzMNbByE_w)
 [![GC2 Game0-xHAT Sega Mega Drive](https://img.youtube.com/vi/PtT1OVjE4Fs/0.jpg)](https://www.youtube.com/watch?v=PtT1OVjE4Fs)[![GC2 Game0-xHAT Nintendo Gameboy](https://img.youtube.com/vi/3sH8cGopgdA/0.jpg)](https://www.youtube.com/watch?v=3sH8cGopgdA)
@@ -49,20 +50,6 @@ Key/Button mapping can support mouse input (ScummVM).
 - **Vibration motor**  
  GPIO25 (shared with first red LED, activation via jumper JP6)
 
-## Jam use case (using and programming)
-
-- SPI TFT Display (SPI)
-  - Video
-  - Gaming
-  - Grafic output
-- GPIO Input
-  - Joypad
-  - Mouse
-  - Shutdown
-- GPIO Output
-  - LEDs
-  - vibration motor
-- Analog input (SPI)
 
 ## Screenshots 160x128 display
 
@@ -74,7 +61,7 @@ Key/Button mapping can support mouse input (ScummVM).
 ![SummVM - Space Quest (Menü)](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ScummVM-Menu.png)
 ![SummVM - Space Quest (Text)](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/ScummVM-Text.png)
 
-# Assembling
+## Assembling
 
 ![Curcuit](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/Curcuit.jpg)
 
