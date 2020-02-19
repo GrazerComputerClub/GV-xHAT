@@ -1,0 +1,8 @@
+
+function gameboy() { 
+	gambatte -s 3 -y -i js0b3 js0b2 js0b0 js0b1 js0a1- js0a1+ js0a0- js0a0+ "$@"
+}
+
+function megadrive() { 
+	PicoDrive "$@"
+}
