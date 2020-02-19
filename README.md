@@ -61,8 +61,28 @@ Key/Button mapping can support mouse input (ScummVM).
 
 # Assembling
 
-![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_top.png)
+![PCB top](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_top.png)
 ![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_bottom.png)
+
+**Order recommendation:**
+- Drill 4x0,8 mm hole for new switch left top 
+- TC1262-3.3
+- Changed soldering accourding to PCB picture above
+- ...
+- LED bar (sodering one pin to right like PCB picture above! Check polarity!)
+- Resistor array
+- 40-pin Header 
+- User 5-pin header to connect audio amplifier board (do not solder speaker +/-!)
+- Use 8-pin IC socket for MCP3202
+- Place electrical tape on backside of TFT display sd slot
+- TFT display
+- Fix speaker with hot glue
+- use wires to connect speaker contacts with audio amplifier board  
+
+**Hints:** 
+- Swiches: Only solder two opposite contacts 
+- Solder all components (transistors, resistors, capacitors) to backside 
+- Place electrical tape on left backside of PCB (avoid shortcut with USB connector on Raspberry Pi B)
 
 
 ## Components list
