@@ -65,7 +65,7 @@ Key/Button mapping can support mouse input (ScummVM).
 ![PCB Bottom](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/GV-xHAT_bottom.png)
 
 **Order recommendation:**
-- Drill 4x0,8 mm hole for new switch left top 
+- Drill 4x1,0 mm hole for new switch left top (use 2,5 mm drill to deburring to remove copper)
 - TC1262-3.3
 - Changed soldering accourding to PCB picture above
 - ...
@@ -109,7 +109,7 @@ Key/Button mapping can support mouse input (ScummVM).
  1 x BC547B transiior (T2)  
      https://secure.reichelt.at/npn-to-92-transistor-45-v-0-1-a-0-5-w-bc-547b-p5006.html  
  1 x BC559 transistor (Q2)  
-     https://secure.reichelt.at/bipolartransistor-pnp-30v-0-1a-0-5w-to-92-bc-559c-p219085.html 
+     https://secure.reichelt.at/bipolartransistor-pnp-30v-0-1a-0-5w-to-92-bc-559c-p219085.html  
  1 x Resistor 4K7 Ohm (Transistor base vibration motor: R2)  
  1 x Resistor 270 Ohm (Audio filter: R3)  
  1 x Resistor 150 Ohm (Audio filter: R4)  
