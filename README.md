@@ -49,6 +49,21 @@ Key/Button mapping can support mouse input (ScummVM).
 - **Vibration motor**  
  GPIO25 (shared with first red LED, activation via jumper JP6)
 
+## Jam use case (using and programming)
+
+- SPI TFT Display (SPI)
+  - Video
+  - Gaming
+  - Grafic output
+- GPIO Input
+  - Joypad
+  - Mouse
+  - Shutdown
+- GPIO Output
+  - LEDs
+  - vibration motor
+- Analog input (SPI)
+
 ## Screenshots 160x128 display
 
 ![Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
