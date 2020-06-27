@@ -52,6 +52,8 @@ The Switch/Button mapping can support mouse input (ScummVM).
 
 ![Game0-xHAT with 320x240 TFT](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/Game0-xHAT.jpeg)
 
+![Block diagram](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/Blockdiagramm.jpeg)
+
 ## Screenshots 160x128 display
 
 ![Linux Console](https://github.com/GrazerComputerClub/Game0-xHAT/raw/master/screenshots/160x128/Console.png)
